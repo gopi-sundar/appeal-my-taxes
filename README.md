@@ -1,6 +1,7 @@
 # appeal-my-taxes
 
 ## Run
+
 >npm install
 
 >node app.js
@@ -9,7 +10,6 @@
 
 
 ## Dev Run (listens for file changes)
->npm install -g nodemon 
 
 >nodemon app.js
 
