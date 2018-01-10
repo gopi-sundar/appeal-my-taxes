@@ -1,13 +1,18 @@
-## appeal-my-taxes
+# appeal-my-taxes
 
-# Run
+## Run
 >npm install
 
 >node app.js
 
-# Dev Run
+>Hit localhost:3000
+
+
+## Dev Run
 >npm install -g nodemon 
 
 >nodemon app.js
+
+>Hit localhost:3000
 
 
