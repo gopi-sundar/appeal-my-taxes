@@ -8,7 +8,7 @@
 >Hit localhost:3000
 
 
-## Dev Run
+## Dev Run (listens for file changes)
 >npm install -g nodemon 
 
 >nodemon app.js
