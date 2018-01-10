@@ -1,11 +1,13 @@
-# appeal-my-taxes
+## appeal-my-taxes
 
+# Run
 >npm install
 
 >node app.js
 
-For dev
->npm install -g nodemon
+# Dev Run
+>npm install -g nodemon 
+
 >nodemon app.js
 
 
